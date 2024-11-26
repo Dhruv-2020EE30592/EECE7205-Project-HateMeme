@@ -120,7 +120,7 @@ class EnhancedGAT(torch.nn.Module):
 - `train_embeddings.pt`: Training data embeddings
 - `val_embeddings.pt`: Validation data embeddings
 - `test_embeddings.pt`: Test data embeddings
-- `output_vqa_answers.csv`: VQA outputs
+- `output_vqa_answers.csv`: image path, text, image caption, VQA outputs
 
 ### Training Script
 ```python
