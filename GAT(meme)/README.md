@@ -145,5 +145,3 @@ model_no_caption_vqa = EnhancedGAT(input_dim_no_caption_vqa, hidden_dim, output_
 ```
 
 For detailed implementation, refer to the script used in the experiment.
-
->>>>>>> e06ad54 (EDIT README)
